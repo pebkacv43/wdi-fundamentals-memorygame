@@ -110,3 +110,11 @@ font-weight: 500;
 #Game {
 
 }
+/* .board {
+  visibility: hidden;
+  display: block;
+  content: " ";
+  clear: both;
+  height: 0;
+  font-size: 0;
+} */
